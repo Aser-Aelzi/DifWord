@@ -14,6 +14,7 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 
 public class First extends AppCompatActivity {
+
     TextView cout, nm, tV, aa;
     Button next, again;
     ImageButton info;
